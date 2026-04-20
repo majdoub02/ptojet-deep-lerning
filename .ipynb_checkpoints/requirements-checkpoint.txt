@@ -1,0 +1,13 @@
+requirements = """tensorflow
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+"""
+
+with open('requirements.txt', 'w') as f:
+    f.write(requirements)
+print("✅ requirements.txt créé !")

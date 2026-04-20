@@ -1,0 +1,6 @@
+*.keras 
+*.h5 
+train/ 
+test/ 
+*.png 
+__pycache__/ 
